@@ -1,4 +1,4 @@
-from greetings import username, title, content
+
 
 # Запрашиваем у пользователя информацию
 
